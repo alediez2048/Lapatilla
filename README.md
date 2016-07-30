@@ -1,2 +1,0 @@
-# Lapatilla
-New Web Portfolio 
