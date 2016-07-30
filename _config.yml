@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /Lapatilla/
+exclude:['README.md']
