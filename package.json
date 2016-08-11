@@ -1,0 +1,23 @@
+{
+  "name": "personal-portfolio-2.0",
+  "version": "1.0.0",
+  "description": "A static site including all learned at Springbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alediez2048/Lapatilla.git"
+  },
+  "author": "Alejandro Diez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alediez2048/Lapatilla/issues"
+  },
+  "homepage": "https://github.com/alediez2048/Lapatilla#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0"
+  }
+}
